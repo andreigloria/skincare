@@ -1,0 +1,22 @@
+.container {
+    background-color: rgb(255, 255, 153);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-size: xx-large;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 10px;
+    list-style-type: none;
+}
+
+.nav-link {
+    text-decoration: none;
+}
